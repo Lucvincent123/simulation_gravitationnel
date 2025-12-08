@@ -34,7 +34,6 @@ With our application, you can easily discorver the effect of the attraction forc
 |- You can move around in your universe by dragging and dropping the mouse or pressing UP DOWN LEFT RIGHT key|
 |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
 |This application is developed by VO Trung Thien, mail: votrungthien1503@gmail.com                           |
-|and WANG Xinhe, mail: xinhe.wang@insa-lyon.fr                                                               |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
